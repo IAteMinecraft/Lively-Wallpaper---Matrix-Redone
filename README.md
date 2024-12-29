@@ -1,2 +1,8 @@
-# Lively Wallpaper---Matrix Redone
- This is a simple edit of the Matrix wallpaper to allow you to change what characters appear on screen
+# matrix
+Matrix like animation using HTML5 Canvas. Inspired from [sample code](http://thecodeplayer.com/walkthrough/matrix-rain-animation-html5-canvas-javascript) on [thecodeplayer.com](http://thecodeplayer.com/).
+
+See it in action @ http://parambirs.github.io/matrix
+
+@ 2020-09-05 - added lively customizable options (rainbow / color select) - khuong
+
+@ 2024-12-29 - Added customisable characters in the customisable options menu - IAteMinecraft
